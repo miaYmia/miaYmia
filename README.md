@@ -20,7 +20,8 @@
                                                                                             
 🤝  Hit me up on [Linkedin](https://www.linkedin.com/in/mia-yuan), especially if you are in Houston!  
                                                                                             
-### I am learning                                                                                              
+### I am learning:
+
                                                                                             
                                                                                            
                                                                                             
