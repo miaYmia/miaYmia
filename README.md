@@ -2,9 +2,8 @@
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100"/>
 </p>
 
-<p id="badges" align="center">
-  <href=https://www.linkedin.com/in/mia-yuan/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> 
+<p align="center">
+<a href="https://www.linkedin.com/in/mia-yuan"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
 
 <p id="page views" align="center"> 
@@ -19,7 +18,7 @@
                                                                                             
 ☕  I also love to meet new people and hear about their stories.    
                                                                                             
-🤝  Hit me up on [Linkedin](https://www.linkedin.com/in/miayuan), especially if you are in Houston!  
+🤝  Hit me up on [Linkedin](https://www.linkedin.com/in/mia-yuan), especially if you are in Houston!  
                                                                                             
 ### I am learning                                                                                              
                                                                                             
