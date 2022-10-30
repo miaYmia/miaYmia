@@ -11,5 +11,14 @@
   <img src="https://komarev.com/ghpvc/?username=miaYmia&style=flat-square&color=blue" alt=""/> 
 </p>    
 
+
+👋  I am a Technical Product Manager working at Cigna. I'm passionate about building enterprise software. 
                                                                                             
+🔭  In my free time, I like to solve puzzles, such as looking for insights from messy data 
+                                                                                            
+☕  I also love to meet new people and hear about their stories.    
+                                                                                            
+🤝  Connect with me on &nbsp; [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=MiaYuan&logoColor=white)](https://www.linkedin.com/in/miayuan), especially if you are in Houston!                                                                                          
+                                                                                            
+                                                                                           
                                                                                             
