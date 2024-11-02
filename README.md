@@ -12,7 +12,7 @@
 
 ### Hello, I am Mia!
                                                                                             
-👋  I am a Technical Product Manager working at Cigna. I'm passionate about building enterprise software. 
+👋  I am a Technical Product Manager working at Vanguard. I'm passionate about building enterprise software. 
                                                                                             
 🔭  In my free time, I like to solve puzzles, such as looking for insights in messy data.
                                                                                             
